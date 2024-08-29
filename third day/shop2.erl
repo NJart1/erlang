@@ -1,0 +1,2 @@
+-module(shop2).
+-export([]).
