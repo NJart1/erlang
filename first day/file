@@ -1,0 +1,17 @@
+120.156.21.95/12, 
+A
+public
+
+|mask(decimal)            255      240      0        0       |
+|mask(binary)             11111111 11110000 00000000 00000000|
+|Host address(decimal)    120      156      21       95      |
+|Host address(binary)     01111000 10011100 00010101 01011111|
+|
+
+172.18.54.141/19,
+B
+private
+
+192,167,43,58/27,
+C
+public
